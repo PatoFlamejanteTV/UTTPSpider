@@ -1,5 +1,5 @@
 /*
-V 1.0 | 11/24/2024 | MIT License | PatoFlamejanteTV/UltimateQuack/UltimateChessPlayer
+V 1.1 | 11/24/2024 | MIT License | PatoFlamejanteTV/UltimateQuack/UltimateChessPlayer
  ____ ___________________________________  _________      .__    .___            
 |    |   \__    ___/\__    ___/\______   \/   _____/_____ |__| __| _/___________ 
 |    |   / |    |     |    |    |     ___/\_____  \\____ \|  |/ __ |/ __ \_  __ \
