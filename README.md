@@ -1,5 +1,10 @@
 # Setup
 
+> [!IMPORTANT]
+> DO NOT USE THIS TOOL FOR HARASSING PEOPLE!
+
+<br>
+
 Copy `UTTPS.js` and change/insert your Google Cloud API token.
 Now enter and **boom**.
 
